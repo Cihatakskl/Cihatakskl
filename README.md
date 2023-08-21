@@ -1,4 +1,4 @@
- [![MasterHead](http://avatars.githubusercontent.com/u/58585811?v=4)
+ [![MasterHead](https://pchocasi.com.tr/wp-content/uploads/2015/11/programlama-dilleri.png)
 
 <h1 align="center">Hi 👋, I'm Cihat Aksakal</h1>
 <h3 align="center">Hello i am jr developer. I live in Turkey</h3>
